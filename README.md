@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in game development and network engineering
-- 🌱 I’m currently learning Python, SQL and C#
-- 💞️ I’m looking to collaborate on beginner coding projects
 - 📫 How to reach me: benmw03@gmail.com
 - 😄 Pronouns: Any pronouns are fine with me
 - ⚡ Fun fact: I collect LEGOs
